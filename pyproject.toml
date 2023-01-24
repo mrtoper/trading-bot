@@ -1,3 +1,9 @@
+[project]
+name = "trading_bot"
+version = "0.0.1"
+description = "Automated Stock Trading via Deep Q-Learning"
+authors = []
+
 [tool.poetry]
 name = "trading_bot"
 version = "0.0.1"
